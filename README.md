@@ -40,7 +40,13 @@
   <tr>
     <td width="42%" align="center" valign="middle">
       <h3>THE DEVELOPER</h3>
-      <img src="./assets/rajesh-paul.png" width="230" alt="Rajesh Paul" />
+    <img
+  src="./assets/rajesh-paul.png"
+  width="220"
+  height="220"
+  style="border-radius: 50%; object-fit: cover; border: 4px solid #22D3EE; padding: 5px;"
+  alt="Rajesh Paul"
+/>
       <br />
       <strong>Rajesh Paul</strong>
       <br />
