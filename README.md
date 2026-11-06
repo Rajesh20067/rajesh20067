@@ -62,11 +62,10 @@
 │  Dhaka, Bangladesh                    │
 │                                       │
 │  $ current_focus                      │
-│  Data Structures & Algorithms         │
+│   C, C++, Python &         │
 │  Core programming concepts            │
 │                                       │
-│  $ learning_path                      │
-│  C  →  C++  →  Python  →  Web          │
+│         │
 │                                       │
 │  $ objective                          │
 │  Learn. Build. Solve. Improve.        │
