@@ -158,12 +158,7 @@ I'm working towards becoming a software engineer by strengthening my programming
 
 <div align="center">
 
-<a href="https://github.com/rajeshpaul263">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeshpaul263&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" alt="Rajesh's GitHub statistics" />
-</a>
-<a href="https://github.com/rajeshpaul263">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpaul263&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages" />
-</a>
+
 
 <br />
 
