@@ -77,8 +77,7 @@
   </tr>
 </table>
 
-<details>
- <div align="center">
+<div align="center">
 
 <h3>▸ ASCII PORTRAIT</h3>
 <p><sub>Generated from my profile photo</sub></p>
@@ -114,7 +113,6 @@
  :..:.::::-=*+.+%%+::::::::::::.::::::-:..::::--.
  .:..-:..:..:::-#@#+=----------=----====+-::::=.
  .:.-:.::..:--:::-+***++=====++++++++++=+*=:--=.
-</details>
 
 ## `02` — ABOUT ME
 
