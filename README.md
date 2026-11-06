@@ -1,165 +1,218 @@
 <!--
   Rajesh Paul | GitHub Profile README
-  Replace the profile image path after uploading your photo to this repository.
+  Profile image: assets/rajesh-paul.png
+  Update the Projects and Certificates sections when you have items to feature.
 -->
 
 <div align="center">
 
-# Hey, I'm Rajesh Paul 👋
+<img src="./assets/rajesh-paul.png" width="170" alt="Portrait of Rajesh Paul" />
 
-### `Aspiring Software Engineer` · `CSE Undergraduate` · `Problem Solver in Progress`
+# RAJESH PAUL
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+by+building%2C+improving+by+solving.;Exploring+C%2C+C%2B%2B%2C+Python+%26+the+Web.;One+problem+at+a+time." alt="Typing SVG" />
+### Aspiring Software Engineer · CSE Undergraduate
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&lines=Learning+the+fundamentals+of+software+engineering;Exploring+C%2C+C%2B%2B%2C+Python+and+the+Web;Building+better+logic%2C+one+problem+at+a+time" alt="Typing introduction" />
+
+<p>
+  <img src="https://img.shields.io/badge/BASED_IN-Dhaka%2C%20Bangladesh-0D9488?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Dhaka, Bangladesh" />
+  <img src="https://img.shields.io/badge/FOCUS-DSA%20%26%20Problem%20Solving-7C3AED?style=for-the-badge" alt="Focus: DSA and problem solving" />
+  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-0891B2?style=for-the-badge" alt="Always learning" />
+</p>
+
+<a href="https://github.com/rajeshpaul263">
+  <img src="https://img.shields.io/badge/GitHub-rajeshpaul263-181717?style=flat-square&logo=github" alt="GitHub profile" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0b7285?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-7c3aed?style=for-the-badge" alt="Focus"/>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-16a34a?style=for-the-badge" alt="Status"/>
+<a href="https://www.linkedin.com/in/rajesh-paul-0a34463b8">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn profile" />
+</a>
+<a href="mailto:rajesh.kp6002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Rajesh" />
+</a>
 
 </div>
 
 ---
 
-## `01` / SYSTEM INTRO
+## `01` — TERMINAL PROFILE
 
 <table>
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<img src="./assets/rajesh-paul.png" width="220" alt="Rajesh Paul portrait" />
-
-**RAJESH PAUL**  
-<sub>ASPIRING SOFTWARE ENGINEER</sub>
-
-</td>
-<td valign="top">
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <h3>THE DEVELOPER</h3>
+      <img src="./assets/rajesh-paul.png" width="230" alt="Rajesh Paul" />
+      <br />
+      <strong>Rajesh Paul</strong>
+      <br />
+      <sub>ASPIRING SOFTWARE ENGINEER</sub>
+    </td>
+    <td valign="middle">
 
 ```text
-┌──[rajesh@github]─[~/profile]──────────────┐
-│                                           │
-│  $ whoami                                 │
-│  Rajesh Paul                              │
-│                                           │
-│  $ education                              │
-│  B.Sc. in CSE                             │
-│  North South University                   │
-│                                           │
-│  $ mission                                │
-│  Build strong fundamentals.               │
-│  Think clearly. Solve better.             │
-│                                           │
-│  $ currently_learning                     │
-│  Data Structures & Algorithms             │
-│  Core programming concepts                │
-│                                           │
-│  $ motto                                  │
-│  Learn → Build → Debug → Repeat            │
-└───────────────────────────────────────────┘
+┌─[rajesh@github]─[~/about]──────────────┐
+│                                       │
+│  $ whoami                             │
+│  Rajesh Paul                          │
+│                                       │
+│  $ education                          │
+│  B.Sc. in CSE                         │
+│  North South University               │
+│                                       │
+│  $ location                           │
+│  Dhaka, Bangladesh                    │
+│                                       │
+│  $ current_focus                      │
+│  Data Structures & Algorithms         │
+│  Core programming concepts            │
+│                                       │
+│  $ learning_path                      │
+│  C  →  C++  →  Python  →  Web          │
+│                                       │
+│  $ objective                          │
+│  Learn. Build. Solve. Improve.        │
+└───────────────────────────────────────┘
 ```
 
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
 
 <details>
-<summary><b>Open my ASCII portrait</b> · terminal edition</summary>
+  <summary><strong>▸ Open the ASCII portrait</strong> — generated from my profile photo</summary>
 
 ```text
-                                               .
-                                               .
-                                               .
-                                               .
-                    .-=+***+:                  .
-                   =**+++#%%%.                 .
-                  :#-:---==+%+                 .
-                  .+:-+--++-+=                 .
-                   -::-=+=--+-                 .
-                   .:--=+++=:                  .
-                     -=****+=                  .
-                    .+++****=:                 .
-                ....--=+++**-:::...            .
-              .....-=--=-===-::::....          .
-            ....::....::::::::::-:..:          .
-            ...:::.....:.::::::-:...:          .
-           ..::--:::..:-:::::::-......         .
-          :--:-=++---::---::-:--......         .
-         ...::-=+-++-..:::.:::::....::.        .
-         ..::...::+*==--:--------=-:-:         .
-          ::..:==----=++++++++++++*=:.         .
-          .--=**+++++++++*********+:           .
-           ..-==+*+++++======+++===            .
-             .::-==---::----=======.           .
+
+
+
+
+
+
+                      .::------.
+                    :=+**##%%#%%#-
+                  .*#%%%#%%%@@@@@@:
+                  *%*+++====+#%%@@*
+                 :%#-.:::---=+++#@@:
+                 -@+:=+#%+=#%#*+=%@:
+                  #-:=+*+::+***+=*#
+                 .+-:::--=++=---=*#:
+                  +=-=++=*##*++++#+
+                  .-==+==+****++++.
+                    .===+***+***-
+                     :++*#######*+:
+                     *+**#######%#-.
+                  ...=#***######+--:..
+              ....  .:=***###***=::::::... .
+          ........-+#*===++*+*#%%=-::::::::..
+        ..........-+=-=-=+===+=====:::::::..::.
+       .....::......:.::-----:--:::::::-:....::
+      .......::-:.....:.--::::::::::::-=:::::::.
+      ..:...::-:........::.:::::::::::=--::..:::
+      ...:::::=-....:::.-:..::::::::::+:.:..:...
+      ....:---=::-:..::.=::::.:::::::-=..::....:.
+    .:-------=+=-==-:.::==----:::::::-::::...::::
+   :==---::-=+*#===-=-::-+===--:-----*-:::::..:..
+  .:..:::---=+#++--+=:::::::--::-----=:.......:::.
+  :..:.::::-=*+.+%%+::::::::::::.::::::-:..::::--.
+  .:..-:..:..:::-#@#+=----------=----====+-::::=.
+  .:.-:.::..:--:::-+***++=====++++++++++=+*=:--=.
 ```
 
 </details>
 
-## `02` / ABOUT ME
+## `02` — ABOUT ME
 
-I'm a Computer Science and Engineering student at **North South University**, based in **Dhaka, Bangladesh**. I'm an aspiring software engineer focused on strengthening my programming fundamentals and becoming a better problem solver.
+Hello! I'm **Rajesh Paul**, a Computer Science and Engineering student at **North South University** in Dhaka, Bangladesh.
 
-- 🧠 Building a solid foundation in **Data Structures & Algorithms**
+I'm working towards becoming a software engineer by strengthening my programming fundamentals, improving my problem-solving skills, and learning how software is designed and built.
+
+- 🧠 Strengthening my foundation in **Data Structures & Algorithms**
 - 💻 Exploring **C, C++, Python, HTML and CSS**
-- 🧩 Practising logical thinking and competitive programming
-- 🌱 Currently learning advanced problem-solving techniques and core CS concepts
-- ♟️ Outside coding: chess, gaming and creative design
+- 🧩 Practising logical thinking and problem-solving
+- 🌱 Learning core computer science concepts step by step
+- ♟️ Outside programming: **chess, gaming and creative design**
 
-> ☕ “Always debugging life with a cup of coffee and endless curiosity!”
+> ☕ *“Always debugging life with a cup of coffee and endless curiosity!”*
 
-## `03` / TECH STACK
+## `03` — TECH TOOLKIT
 
-### Programming languages
+### Programming & Web
+
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=20232A" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Tools & platforms
+### Tools & Platforms
+
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </p>
 
-## `04` / GITHUB ANALYTICS
+## `04` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajeshpaul263&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Rajesh's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpaul263&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages"/>
+<a href="https://github.com/rajeshpaul263">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeshpaul263&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" alt="Rajesh's GitHub statistics" />
+</a>
+<a href="https://github.com/rajeshpaul263">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpaul263&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages" />
+</a>
 
-<br/>
+<br />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=rajeshpaul263&theme=transparent&hide_border=true&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+<img width="96%" src="https://streak-stats.demolab.com?user=rajeshpaul263&theme=transparent&hide_border=true&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
-<br/>
+<br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshpaul263&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=7C3AED&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshpaul263&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=7C3AED&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
-## `05` / CERTIFICATES & ACHIEVEMENTS
+## `05` — PROJECTS
 
-<!-- Add your certificates and achievements here when ready. -->
+<!--
+Add projects here when they are ready to showcase.
+Suggested format:
+- [Project Name](REPOSITORY_URL) — One-line description of what it does and what you learned.
+-->
 
-- _Add your certificates here._
-- _Add your competition results or awards here._
+<sub>More projects will be featured here as I build and publish them.</sub>
 
-## `06` / LET'S CONNECT
+## `06` — CERTIFICATES & ACHIEVEMENTS
+
+<!--
+Add certificate and achievement details here later.
+Suggested format:
+- Certificate / Achievement — Issuing organization · Year
+- Competition result — Event name · Result · Year
+-->
+
+<sub>This section is reserved for future certificates, milestones and achievements.</sub>
+
+## `07` — CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/rajeshpaul263"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/rajesh-paul-0a34463b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/rajesh.paul.66"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="mailto:rajesh.kp6002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/rajeshpaul263">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/rajesh-paul-0a34463b8">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/rajesh.paul.66">
+  <img src="https://img.shields.io/badge/Facebook-Visit-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="mailto:rajesh.kp6002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -167,8 +220,10 @@ I'm a Computer Science and Engineering student at **North South University**, ba
 
 <div align="center">
 
-<sub>⚡ Thanks for visiting my profile. Feel free to explore my repositories and connect!</sub>
+<sub>Thanks for stopping by. Feel free to explore my repositories and follow my learning journey.</sub>
 
-<sub><code>while(alive) { learn(); build(); improve(); }</code></sub>
+<br />
+
+<code>while (learning) { practice(); build(); improve(); }</code>
 
 </div>
