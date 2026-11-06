@@ -77,8 +77,8 @@
   </tr>
 </table>
 
-<details>
-  <summary>▸ Open the ASCII portrait</strong> — generated from my profile photo</summary>
+
+  <summary><strong>▸ Open the ASCII portrait</strong> — generated from my profile photo</summary>
 
 ```text
 
@@ -117,7 +117,7 @@
   .:.-:.::..:--:::-+***++=====++++++++++=+*=:--=.
 ```
 
-</details>
+
 
 ## `02` — ABOUT ME
 
