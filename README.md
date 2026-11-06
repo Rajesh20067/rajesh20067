@@ -6,7 +6,13 @@
 
 <div align="center">
 
-<img src="./assets/rajesh-paul.png" width="170" alt="Portrait of Rajesh Paul" />
+<img
+  src="./assets/rajesh-paul.png"
+  width="170"
+  height="170"
+  alt="Portrait of Rajesh Paul"
+  style="border-radius: 50%; object-fit: cover;"
+/>
 
 # RAJESH PAUL
 
