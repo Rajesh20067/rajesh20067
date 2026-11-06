@@ -40,13 +40,7 @@
   <tr>
     <td width="42%" align="center" valign="middle">
       <h3>THE DEVELOPER</h3>
-    <img
-  src="./assets/rajesh-paul.png"
-  width="220"
-  height="220"
-  style="border-radius: 50%; object-fit: cover; border: 4px solid #22D3EE; padding: 5px;"
-  alt="Rajesh Paul"
-/>
+      <img src="./assets/rajesh-paul.png" width="230" alt="Rajesh Paul" />
       <br />
       <strong>Rajesh Paul</strong>
       <br />
@@ -68,10 +62,11 @@
 │  Dhaka, Bangladesh                    │
 │                                       │
 │  $ current_focus                      │
-│   C, C++, Python &         │
+│  Data Structures & Algorithms         │
 │  Core programming concepts            │
 │                                       │
-│         │
+│  $ learning_path                      │
+│  C  →  C++  →  Python  →  Web          │
 │                                       │
 │  $ objective                          │
 │  Learn. Build. Solve. Improve.        │
@@ -164,7 +159,12 @@ I'm working towards becoming a software engineer by strengthening my programming
 
 <div align="center">
 
-
+<a href="https://github.com/rajeshpaul263">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeshpaul263&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" alt="Rajesh's GitHub statistics" />
+</a>
+<a href="https://github.com/rajeshpaul263">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpaul263&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages" />
+</a>
 
 <br />
 
