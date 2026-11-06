@@ -78,7 +78,7 @@
 </table>
 
 
-  <summary><strong>▸ Open the ASCII portrait</strong> — generated from my profile photo</summary>
+  <summary><strong> generated from my profile photo </strong> </summary>
 
 ```text
 
