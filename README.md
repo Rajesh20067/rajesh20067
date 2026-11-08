@@ -34,77 +34,89 @@
 
 ---
 
-
 ## `01` — TERMINAL PROFILE
 
 <table>
   <tr>
-    <td width="52%" valign="middle">
-
-<h3>THE DEVELOPER</h3>
+    <td width="42%" align="center" valign="middle">
+      <h3>THE DEVELOPER</h3>
+      <img src="./assets/rajesh-paul.png" width="230" alt="Rajesh Paul" />
+      <br />
+      <strong>Rajesh Paul</strong>
+      <br />
+      <sub>ASPIRING SOFTWARE ENGINEER</sub>
+    </td>
+    <td valign="middle">
 
 ```text
-┌─[rajesh@github]─[~/about]────────────┐
-│                                     │
-│  $ whoami                           │
-│  Rajesh Paul                        │
-│                                     │
-│  $ education                        │
-│  B.Sc. in CSE                       │
-│  North South University             │
-│                                     │
-│  $ location                         │
-│  Dhaka, Bangladesh                  │
-│                                     │
-│  $ current_focus                    │
-│  Data Structures & Algorithms       │
-│  Core programming concepts          │
-│                                     │
-│  $ learning_path                    │
-│  C → C++ → Python → Web             │
-│                                     │
-│  $ objective                        │
-│  Learn. Build. Solve. Improve.      │
-└─────────────────────────────────────┘
+┌─[rajesh@github]─[~/about]──────────────┐
+│                                       │
+│  $ whoami                             │
+│  Rajesh Paul                          │
+│                                       │
+│  $ education                          │
+│  B.Sc. in CSE                         │
+│  North South University               │
+│                                       │
+│  $ location                           │
+│  Dhaka, Bangladesh                    │
+│                                       │
+│  $ current_focus                      │
+│  Data Structures & Algorithms         │
+│  Core programming concepts            │
+│                                       │
+│  $ learning_path                      │
+│  C  →  C++  →  Python  →  Web          │
+│                                       │
+│  $ objective                          │
+│  Learn. Build. Solve. Improve.        │
+└───────────────────────────────────────┘
 ```
 
-    </td>
-    <td width="48%" align="center" valign="middle">
-
-<pre>
-       .::------.
-     :=+**##%%#%%#-
-   .*#%%%#%%%@@@@@@:
-   *%*+++====+#%%@@*
-  :%#-.:::---=+++#@@:
-  -@+:=+#%+=#%#*+=%@
-   #-:=+*+::+***+=*#
-  .+-:::--=++=---=*#:
-   +=-=++=*##*++++#+
-   .-==+==+****++++.
-     .===+***+***-
-      :++*#######*+:
-      *+**#######%#-.
-   ...=#***######+--:..
- ....  .:=***###**=::::::... .
-......-+#*===++*+#%%=-::::::::..
-..........-+=-=-=+===+=====:::::::..::
-.....::......:.::-----:--:::::::-:....::
-.......::-:.....:.--::::::::::::-=:::::::.
-..:...::-:........::.:::::::::::=--::..:::
-...:::::=-....:::.-:..::::::::::+:.:..:...
-....:---=::-:..::.=::::.:::::::-=..::....:.
-.:-------=+=-==-:.::==----:::::::-::::...::::
-:==---::-=+*#===-=-::-+===--:-----*-:::::..:..
-.:..:::---=+#++--+=:::::::--::-----=:.......:::.
-:..:.::::-=*+.+%%+::::::::::::.::::::-:..::::--.
-.:..-:..:..:::-#@#+=----------=----====+-::::=.
-.:.-:.::..:--:::-+***++=====++++++++++=+*=:--=.
-</pre>
-
-    </td>
+  </td>
   </tr>
 </table>
+
+
+
+
+```text
+
+
+
+
+
+
+                      .::------.
+                    :=+**##%%#%%#-
+                  .*#%%%#%%%@@@@@@:
+                  *%*+++====+#%%@@*
+                 :%#-.:::---=+++#@@:
+                 -@+:=+#%+=#%#*+=%@:
+                  #-:=+*+::+***+=*#
+                 .+-:::--=++=---=*#:
+                  +=-=++=*##*++++#+
+                  .-==+==+****++++.
+                    .===+***+***-
+                     :++*#######*+:
+                     *+**#######%#-.
+                  ...=#***######+--:..
+              ....  .:=***###***=::::::... .
+          ........-+#*===++*+*#%%=-::::::::..
+        ..........-+=-=-=+===+=====:::::::..::.
+       .....::......:.::-----:--:::::::-:....::
+      .......::-:.....:.--::::::::::::-=:::::::.
+      ..:...::-:........::.:::::::::::=--::..:::
+      ...:::::=-....:::.-:..::::::::::+:.:..:...
+      ....:---=::-:..::.=::::.:::::::-=..::....:.
+    .:-------=+=-==-:.::==----:::::::-::::...::::
+   :==---::-=+*#===-=-::-+===--:-----*-:::::..:..
+  .:..:::---=+#++--+=:::::::--::-----=:.......:::.
+  :..:.::::-=*+.+%%+::::::::::::.::::::-:..::::--.
+  .:..-:..:..:::-#@#+=----------=----====+-::::=.
+  .:.-:.::..:--:::-+***++=====++++++++++=+*=:--=.
+```
+
 
 
 ## `02` — ABOUT ME
@@ -113,11 +125,11 @@ Hello! I'm **Rajesh Paul**, a Computer Science and Engineering student at **Nort
 
 I'm working towards becoming a software engineer by strengthening my programming fundamentals, improving my problem-solving skills, and learning how software is designed and built.
 
--  Strengthening my foundation in **Data Structures & Algorithms**
--  Exploring **C, C++, Python, HTML and CSS**
--  Practising logical thinking and problem-solving
--  Learning core computer science concepts step by step
--  Outside programming: **chess, gaming and creative design**
+- 🧠 Strengthening my foundation in **Data Structures & Algorithms**
+- 💻 Exploring **C, C++, Python, HTML and CSS**
+- 🧩 Practising logical thinking and problem-solving
+- 🌱 Learning core computer science concepts step by step
+- ♟️ Outside programming: **chess, gaming and creative design**
 
 > ☕ *“Always debugging life with a cup of coffee and endless curiosity!”*
 
