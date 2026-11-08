@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-0891B2?style=for-the-badge" alt="Always learning" />
 </p>
 
-<a href="https://github.com/rajeshpaul263">
-  <img src="https://img.shields.io/badge/GitHub-rajeshpaul263-181717?style=flat-square&logo=github" alt="GitHub profile" />
+<a href="https://github.com/Rajesh20067">
+  <img src="https://img.shields.io/badge/GitHub-rajesh20067-181717?style=flat-square&logo=github" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/in/rajesh-paul-0a34463b8">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn profile" />
