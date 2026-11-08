@@ -78,7 +78,7 @@
 </table>
 
 
-  <summary><strong> generated from my profile photo </strong> </summary>
+
 
 ```text
 
